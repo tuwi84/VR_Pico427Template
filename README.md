@@ -13,3 +13,9 @@ https://corretto.aws/downloads/resources/8.362.08.1/amazon-corretto-8.362.08.1-w
 
 #Minimum SDK 26
 #Target SDK 26
+
+On stereo material "Use Full Precision" to fix antialiasing on right eye for VR!
+![image](https://github.com/tuwi84/VR_Pico427Template/assets/70576786/e5442561-e6f7-4a28-8d30-33012f297f94)
+
+4x MSAA
+![image](https://github.com/tuwi84/VR_Pico427Template/assets/70576786/409951c8-ee78-4b8f-996e-866d66bc9447)
